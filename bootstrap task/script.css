@@ -1,0 +1,118 @@
+body{
+    background-color: #343A40 ;
+}
+.ob{
+   
+    font-size: 6rem;
+ 
+    color:#FF2626;
+    margin:0;
+    font-family: 'Archivo Black', sans-serif;
+}
+.chil{
+    margin-top:0;
+    font-size: 2rem;
+    font-weight: 600;
+    color:white;
+ 
+    
+}
+
+.fluid{
+ padding-top: 80px;
+    width:50%;
+    margin:auto;
+   text-align: left;
+   
+}
+.img
+{
+    margin-right: 30px;
+    width:25%;
+    float: left;
+   
+
+}
+.second
+{
+  margin-top:200px;  
+  
+}
+.p
+{
+color:white;
+font-family: 'Noto Sans JP', sans-serif;
+font-size: 1.3rem;
+margin-bottom: 5px;
+font-weight:;
+}
+.head{
+    font-size: 4.5rem;
+    font-family: 'Noto Sans JP', sans-serif;
+    margin:0;
+    font-weight:900;
+    color:white;
+}
+.pbold
+{margin-bottom: 5px;
+    font-family: 'Noto Sans JP', sans-serif;
+    color:white;
+    font-size: 2rem;
+    font-weight: 900;
+}
+.sec{
+   
+    display:inline-block;
+    letter-spacing: 1px;
+    word-spacing: 1.5px;;
+    width:40%;
+    background-color:#FFA900 ;
+    padding-top:10px;
+    padding-bottom: 50px;
+    text-align: center;
+
+
+}
+.three
+{
+    width:25%;
+    margin:0;
+}
+.third
+{
+
+    display:inline-block;
+    padding-top: 86px;
+    text-align: center;
+    background-color:#00BCD4 ;
+    width:40%;
+    padding-bottom: 50px;
+}
+.mil
+{
+    font-stretch: ultra-expanded;
+    margin:0;
+  
+    margin-right:180px;
+    font-size: 4.5rem;
+    color:white;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-weight: 900;
+}
+.mill
+{
+    font-stretch: ultra-expanded;
+
+    margin:0;
+    margin-right:;
+    font-size: 4.5rem;
+    color:white;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-weight: 600;  
+}
+.four
+{
+   
+    width:15%;
+    float: left;
+}
